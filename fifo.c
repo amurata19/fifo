@@ -1,4 +1,4 @@
-include "fifo.h"
+include "fifo.h";
 
 int main()
 {
@@ -12,5 +12,5 @@ int test1(void)
 
 int test2(void)
 {
-    
+
 }
